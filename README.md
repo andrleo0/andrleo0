@@ -5,7 +5,6 @@
 
 ## Sobre mi
 - 📚 Autodidadcta
-- 💻 Web developer
 - 🔬 Entuciasta de la ciencia y tecnologia
 - ✔️ Abierto a colaborar 
 <br>
