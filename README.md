@@ -1,11 +1,11 @@
-<h1 align="center"><b>Welcome to my profile!!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Welcome to my profile!  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <br>
 <br>
 <br>
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=5220CD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Andr%C3%A9s+Guerrero;Self-taught+FullStack+Developer;Love+to+know+new+things!!%E2%9D%A4%EF%B8%8F;Let's+get+involved!!+%F0%9F%91%8D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6471DF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Andr%C3%A9s+Guerrero;Self-taught+FullStack+Developer;Love+to+know+new+things!!%E2%9D%A4%EF%B8%8F;Let's+get+involved!!+%F0%9F%91%8D" alt="Typing SVG" /></a>
 </p>
 <br>
 <br>
