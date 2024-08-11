@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, soy Andrés Guerrero 👋</h1>
-  <img src="https://dinahosting.com/blog/upload/2019/08/programaci%C3%B3n-mitos.jpg">
+  <img src="https://github.com/user-attachments/assets/06281b72-272e-4f5f-bac8-926aa8cc0234">
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrleo/)
